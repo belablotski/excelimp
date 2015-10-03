@@ -1,0 +1,11 @@
+.classpath
+.project
+.cache-main
+.cache-tests
+/.settings/
+/target/
+/bin/
+/project/project/
+/project/target/
+/misc_local/
+/src/main/resources/application.conf
